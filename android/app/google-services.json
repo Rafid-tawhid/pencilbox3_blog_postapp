@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977735353032",
+    "project_id": "pencilboxblog",
+    "storage_bucket": "pencilboxblog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977735353032:android:812282a440a4bc1aac9bfd",
+        "android_client_info": {
+          "package_name": "com.pencilbox.blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977735353032-1gn6nirvrfqcp70n9nmb4i5ktc3voojs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk935BFo4ON408qYGAuzojRX0KDS7Ci3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977735353032-1gn6nirvrfqcp70n9nmb4i5ktc3voojs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
